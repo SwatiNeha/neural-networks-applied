@@ -1,6 +1,6 @@
 # Neural Networks — Applied Projects (5-in-1)
 
-This repository bundles five applied neural-network projects. Each project is self-contained (runnable in Google Colab or locally) and framed as a portfolio artifact — no coursework wording. Source write‑ups are in **Project_Papers/**.
+This repository bundles five applied neural-network projects. Each project is self-contained (runnable in Google Colab or locally) and framed as a portfolio artifact. Source write‑ups are in **Project_Papers/**.
 
 ---
 
@@ -69,7 +69,7 @@ This repository bundles five applied neural-network projects. Each project is se
 ├─ Search_for_best_hyperparameters for Spherical Projection.ipynb
 ├─ Shape Generation and Latent Information in Autoencoders.ipynb
 ├─ Spherical_projection_gaussian.ipynb
-├─ Tracking Random Walks with Sensor Networks and Graph Neural Networks.ipynb   # your exact filename
+├─ Tracking Random Walks with Sensor Networks and GNNs.ipynb
 ├─ readme.md   # this file
 ```
 
@@ -103,4 +103,4 @@ torch-geometric
 
 - All code is original and executed in Google Colab.  
 - Hyperparameter search for the spherical‑projection task is part of **Project 1** (separate notebook provided).  
-- Replace any placeholder notebook name above with your exact filename if it differs.
+
